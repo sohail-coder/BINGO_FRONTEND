@@ -24,7 +24,7 @@ function Category(category) {
         <CardActionArea>
           <CardMedia
             component="img"
-            alt="Contemplative Reptile"
+            alt={category.title}
             height="200"
             image={category.img}
           />
