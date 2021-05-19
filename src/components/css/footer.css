@@ -1,0 +1,22 @@
+.footer {
+  position: relative;
+  background-color: #f0fff0;
+  color: black;
+  margin-top: 20px;
+}
+/* .footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #f0fff0;
+  color: black;
+  margin-top: 20px;
+  margin-bottom: 50px;
+} */
+.footer__address {
+  font-family: "serif";
+}
+.footer__timings {
+  font-family: "Times New Roman", Times, serif;
+}
